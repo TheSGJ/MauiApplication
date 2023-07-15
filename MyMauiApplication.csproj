@@ -12,10 +12,10 @@
 		<ImplicitUsings>enable</ImplicitUsings>
 
 		<!-- Display name -->
-		<ApplicationTitle>MyMauiApplication</ApplicationTitle>
+		<ApplicationTitle>Hayai</ApplicationTitle>
 
 		<!-- App Identifier -->
-		<ApplicationId>com.companyname.mymauiapplication</ApplicationId>
+		<ApplicationId>com.thesgjtech.hayai</ApplicationId>
 		<ApplicationIdGuid>c428424e-baa4-452e-a6a6-6be96004b8d9</ApplicationIdGuid>
 
 		<!-- Versions -->
