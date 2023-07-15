@@ -19,6 +19,7 @@ env:
   DOTNET_CLI_TELEMETRY_OPTOUT: true       # Disable sending .NET CLI telemetry
 
 # MAUI Android Build
+jobs:
   build-android:
     runs-on: windows-2022
     name: Android Build
