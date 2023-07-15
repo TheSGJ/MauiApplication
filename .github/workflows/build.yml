@@ -44,6 +44,6 @@ jobs:
       - name: Upload Android Artifact
         uses: actions/upload-artifact@v3.1.0
         with:
-          name: mauibeach-android-ci-build
+          name: hayai-android-ci-build
           path: bin/Release/net7.0-android/*Signed.a*
 
