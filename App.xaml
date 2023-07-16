@@ -1,5 +1,6 @@
 ﻿<?xml version = "1.0" encoding = "UTF-8" ?>
-<Application xmlns:mc="clr-namespace:Material.Components.Maui;assembly=Material.Components.Maui"
+<!-- xmlns:mds="clr-namespace:Material.Components.Maui.Styles;assembly=Material.Components.Maui"> -->
+<Application
              xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:MyMauiApplication"
@@ -9,7 +10,7 @@
             <ResourceDictionary.MergedDictionaries>
                 <ResourceDictionary Source="Resources/Styles/Colors.xaml" />
                 <ResourceDictionary Source="Resources/Styles/Styles.xaml" />
-                <mds:MaterialStyles />
+                <!-- <mds:MaterialStyles /> -->
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>
     </Application.Resources>
