@@ -20,5 +20,10 @@ public partial class MainPage : ContentPage
 
 		SemanticScreenReader.Announce(CounterBtn.Text);
 	}
+
+	private void Teleport_Button(object sender, EventArgs e)
+	{
+		DisplayAlert("You are teleported Home! 🏠 ", "Sugoi 💫💻", "OK");
+	}
 }
 
