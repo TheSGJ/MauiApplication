@@ -1,5 +1,4 @@
 ﻿using Microsoft.Extensions.Logging;
-using Material.Components.Maui.Extensions;
 namespace MyMauiApplication;
 
 public static class MauiProgram
